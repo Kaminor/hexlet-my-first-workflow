@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![say-hello.yml](https://github.com/Kaminor/hexlet-my-first-workflow/actions/workflows/say-hello.yml/badge.svg)](https://github.com/Kaminor/hexlet-my-first-workflow/actions/workflows/say-hello.yml)
